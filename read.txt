@@ -5,3 +5,6 @@ pring two!
 add one!
 add two!
 add three!
+insert one
+insert two
+insert three
